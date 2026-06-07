@@ -13,7 +13,7 @@ const data = {
             name: "Almila Su",
             title: "Creative thinker Minimalism lover",
             description: "Hi, I’m Almila. I’m a full-stack developer. If you are looking for a Developer who to craft solid and scalable frontend products with great user experiences. Let’s shake hands with me.",
-            profileImage: "./src/assets/image.png",
+            profileImage: "/assets/image.png",
             hireBtn: "Hire me",
             github: "Github",
             linkedin: "Linkedin"
@@ -63,7 +63,7 @@ const data = {
         projects: [{
                 title: "Workintech",
                 description: "A simple, customizable, minimal setup cookie plugin that allows your users to select which cookies to accept or decline. This was created with vanilla JS, SCSS and Parcel Bundler and is available as a NPM package and the git repository makes any type of customization to code and themes possible.",
-                image: "./src/assets/app-example1.png",
+                image: "/assets/app-example1.png",
                 technologies: ["react", "redux", "axios"],
                 github: "https://github.com/ggozdekocer/fsweb-s4-bonus-challenge-html-pizza",
                 site: "https://fsweb-s4-bonus-challenge-html-pizza-snowy.vercel.app/"
@@ -71,7 +71,7 @@ const data = {
             {
                 title: "Random Jokes",
                 description: "A simple, customizable, minimal setup cookie plugin that allows your users to select which cookies to accept or decline. This was created with vanilla JS, SCSS and Parcel Bundler and is available as a NPM package and the git repository makes any type of customization to code and themes possible.",
-                image: "./src/assets/app-example2.png",
+                image: "/assets/app-example2.png",
                 technologies: ["react", "redux", "axios"],
                 github: "https://github.com/ggozdekocer/FSWeb-Sprint8-Pizza-React-Project",
                 site: "https://react-pizza-project-one.vercel.app/"
@@ -79,7 +79,7 @@ const data = {
             {
                 title: "Journey",
                 description: "A simple, customizable, minimal setup cookie plugin that allows your users to select which cookies to accept or decline. This was created with vanilla JS, SCSS and Parcel Bundler and is available as a NPM package and the git repository makes any type of customization to code and themes possible.",
-                image: "./src/assets/app-example3.png",
+                image: "/assets/app-example3.png",
                 technologies: ["react", "redux", "axios"],
                 github: "https://github.com/ggozdekocer/my-login-project",
                 site: "https://my-login-project-kappa.vercel.app/"
@@ -109,7 +109,7 @@ const data = {
             name: "Almila Su",
             title: "Yaratıcı düşünür Minimalizm sever",
             description: "Merhaba, ben Almila! Full-stack geliştiriciyim. Eğer mükemmel kullanıcı deneyimi sunan, dayanıklı ve ölçeklenebilir frontend projeleri inşa edecek birini arıyorsanız, tanışalım ve birlikte çalışmaya başlayalım!",
-            profileImage: "./src/assets/image.png",
+            profileImage: "/assets/image.png",
             hireBtn: "Beni işe al",
             github: "Github",
             linkedin: "Linkedin"
@@ -160,7 +160,7 @@ const data = {
 
                 title: "Workintech",
                 description: "Kullanıcılarınızın hangi çerezleri kabul edeceğini veya reddedeceğini seçmesine olanak tanıyan; basit, özelleştirilebilir ve minimum kurulum gerektiren bir çerez eklentisidir. Vanilla JS, SCSS ve Parcel Bundler ile geliştirilen bu araç, hem bir NPM paketi olarak sunulmakta hem de Git deposu üzerinden kod ve tema üzerinde her türlü özelleştirmeye imkan tanımaktadır.",
-                image: "./src/assets/app-example1.png",
+                image: "/assets/app-example1.png",
                 technologies: ["react", "redux", "axios"],
                 github: "https://github.com/ggozdekocer/fsweb-s4-bonus-challenge-html-pizza",
                 site: "https://fsweb-s4-bonus-challenge-html-pizza-snowy.vercel.app/"
@@ -168,7 +168,7 @@ const data = {
             {
                 title: "Random Jokes",
                 description: "Kullanıcılarınızın hangi çerezleri kabul edeceğini veya reddedeceğini seçmesine olanak tanıyan; basit, özelleştirilebilir ve minimum kurulum gerektiren bir çerez eklentisidir. Vanilla JS, SCSS ve Parcel Bundler ile geliştirilen bu araç, hem bir NPM paketi olarak sunulmakta hem de Git deposu üzerinden kod ve tema üzerinde her türlü özelleştirmeye imkan tanımaktadır.",
-                image: "./src/assets/app-example2.png",
+                image: "/assets/app-example2.png",
                 technologies: ["react", "redux", "axios"],
                 github: "https://github.com/ggozdekocer/FSWeb-Sprint8-Pizza-React-Project",
                 site: "https://react-pizza-project-one.vercel.app/"
@@ -176,7 +176,7 @@ const data = {
             {
                 title: "Journey",
                 description: "Kullanıcılarınızın hangi çerezleri kabul edeceğini veya reddedeceğini seçmesine olanak tanıyan; basit, özelleştirilebilir ve minimum kurulum gerektiren bir çerez eklentisidir. Vanilla JS, SCSS ve Parcel Bundler ile geliştirilen bu araç, hem bir NPM paketi olarak sunulmakta hem de Git deposu üzerinden kod ve tema üzerinde her türlü özelleştirmeye imkan tanımaktadır.",
-                image: "./src/assets/app-example3.png",
+                image: "/assets/app-example3.png",
                 technologies: ["react", "redux", "axios"],
                 github: "https://github.com/ggozdekocer/my-login-project",
                 site: "https://my-login-project-kappa.vercel.app/"
