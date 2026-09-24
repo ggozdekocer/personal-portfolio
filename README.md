@@ -1,16 +1,47 @@
-# React + Vite
+# 🌐 Personal Portfolio - Gozde Kocer
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A pixel-perfect, responsive personal portfolio web application built with **React**, **Redux Toolkit**, and **Tailwind CSS**. Designed to showcase software development projects, technical background, and personal skills with multi-language and dark mode support.
 
-Currently, two official plugins are available:
+## ✨ Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- **Pixel-Perfect UI:** Built strictly following complex Figma designs with mobile-first responsiveness using Tailwind CSS.
+- **Global State Management:** Integrated **Redux Toolkit** to handle cross-component states smoothly:
+  - Multi-language toggling (English / Turkish).
+  - Dynamic Dark Mode theme support.
+- **Persistent Data:** User preferences (Language & Theme) are saved locally to provide a seamless user experience.
+- **Interactive Feedback:** Real-time toast notifications powered by **React-Toastify**.
+- **Automated Testing:** Verified key UI flows and component behavior using **Cypress**.
 
-## React Compiler
+## 🛠️ Tech Stack
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+- **Frontend:** React.js, Vite
+- **State Management:** Redux Toolkit, React Redux
+- **Styling:** Tailwind CSS
+- **Testing:** Cypress
+- **Feedback:** React-Toastify
+- **Deployment:** Vercel / Netlify
 
-## Expanding the ESLint configuration
+## ⚙️ Getting Started
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+### Prerequisites
+
+Make sure you have Node.js installed on your machine.
+
+### Installation
+
+1. Clone the repository:
+   git clone [https://github.com/ggozdekocer/personal-portfolio.git](https://github.com/ggozdekocer/personal-portfolio.git)
+   cd personal-portfolio
+
+2. Install dependencies:
+   npm install
+
+3. Run the development server:
+   npm run dev
+
+4. Run Cypress E2E Tests:
+   npm run cypress:open
+
+## 👤 Author
+
+- **Gözde Koçer** - [LinkedIn](https://linkedin.com/in/gozde-kocer) • [GitHub](https://github.com/ggozdekocer)
