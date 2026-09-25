@@ -21,6 +21,22 @@ A pixel-perfect, responsive personal portfolio web application built with **Reac
 - **Feedback:** React-Toastify
 - **Deployment:** Vercel / Netlify
 
+## 📸 Ekran Görüntüleri / Screenshots
+
+<p align="center">
+  <img src="public/assets/1.jpeg" width="48%" alt="Portfolio Ekran Görüntüsü 1" />
+  <img src="public/assets/2.jpeg" width="48%" alt="Portfolio Ekran Görüntüsü 2" />
+</p>
+
+<p align="center">
+  <img src="public/assets/3.jpeg" width="48%" alt="Portfolio Ekran Görüntüsü 3" />
+  <img src="public/assets/4.jpeg" width="48%" alt="Portfolio Ekran Görüntüsü 4" />
+</p>
+
+<p align="center">
+  <img src="public/assets/5.jpeg" width="97%" alt="Portfolio Ekran Görüntüsü 5" />
+</p>
+
 ## ⚙️ Getting Started
 
 ### Prerequisites
